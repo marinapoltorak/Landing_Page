@@ -1,12 +1,12 @@
-# _{Marina's Portfolio Landing Page}_
+# _Marina's Portfolio Landing Page_
 
-#### _{A site that allows user to navigate to pages describing me}_
+#### _A site that allows user to navigate to pages describing me_
 
 #### By _**Marina Poltorak**_
 
 ## Description
 
-_A landing page with navigation buttons to take user to the following sections: about, work, background, hobbies. _
+A landing page with navigation buttons to take user to the following sections: about, work, background, hobbies.
 
 ## Setup/Installation Requirements
 
@@ -17,7 +17,7 @@ _A landing page with navigation buttons to take user to the following sections: 
 
 ## Known Bugs
 
-_No bugs, extra bullets? Yes. Bad styling? Yes. But no known bugs. _
+No bugs, extra bullets? Yes. Bad styling? Yes. But no known bugs.
 
 ## Support and contact details
 
