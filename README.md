@@ -5,6 +5,7 @@
 #### By _**Marina Poltorak**_
 
 ## Description
+https://marinapoltorak.github.io/Landing_Page/
 
 A landing page with navigation buttons to take user to the following sections: about, work, background, hobbies.
 
