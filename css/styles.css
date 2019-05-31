@@ -3,6 +3,10 @@ body {
   margin: 50px;
   line-height: 1.4;
   text-align: center;
+  font-style: normal;
+  font-size: 20px;
+  font-weight: 300;
+  font-family:cursive;
 }
 
 .btn {
@@ -32,9 +36,22 @@ body {
 }
 
 .quote {
-  font-size: 25px;
+  font-size: 20px;
+  font-style: oblique;
+  font-weight: bold;
+  font-family: fantasy;
+  color: #15034c;
 }
 
 .fquote {
   font-size: 20px;
+  font-style: oblique;
+  font-weight: 600;
+  font-family: fantasy;
+  color: #583fa3;
+}
+
+img {
+  width: 300px;
+  border-radius: 75%;
 }
