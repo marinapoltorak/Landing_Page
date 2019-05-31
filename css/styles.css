@@ -1,1 +1,40 @@
+body {
+  background-color: #f48642;
+  margin: 50px;
+  line-height: 1.4;
+  text-align: center;
+}
 
+.btn {
+  background: #4c1881;
+  color: #73babe;
+  padding: 0.3rem 1rem;
+  text-decoration: none;
+  border: 0;
+  text-align: center;
+}
+
+.left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  float:right;
+  border-radius: 75%;
+}
+
+.jumbotron{
+    position: relative;
+    background: #f4ca41;
+    margin-top: 20px;
+    text-align:center;
+    width: 100%;
+}
+
+.quote {
+  font-size: 25px;
+}
+
+.fquote {
+  font-size: 20px;
+}
